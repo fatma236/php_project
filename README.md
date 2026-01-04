@@ -21,23 +21,7 @@ It runs on the server and can generate **dynamic web content** embedded in HTML.
 - Use object-oriented programming (OOP)  
 - Handle errors with exceptions  
 - Interact with databases  
-
----
-
-## 🛠️ How to Use PHP
-
-**Basic Syntax:**
-```php
-<?php
-echo "Hello World!";
-?>
-PHP Tags:
-
-<?php ?> - Standard tags
-
-<?= ?> - Short echo tag
-
-<? ?> - Short tags (not recommended)
+-----------------------------------------------------------------------------
 
 Running PHP Files:
 
