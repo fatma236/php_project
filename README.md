@@ -33,15 +33,15 @@ Access via browser: http://localhost/your-file.php
 
 | File                         | Description                                                                                             |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **01_output.php**            | 🖨️ Basic output: `echo`, `print`, `print_r`, `var_dump`                                                |
-| **02_variables.php**         | 🔢 Variables, data types, constants, type casting                                                       |
-| **03_arrays.php**            | 🗃️ Arrays: indexed, associative, multidimensional                                                      |
-| **04_conditionals.php**      | ⚡ Conditional logic: `if`, `else`, `elseif`, `switch`, ternary                                          |
-| **05_loops.php**             | 🔄 Loops: `for`, `while`, `do-while`, `foreach`, nested loops, `break` & `continue`                     |
-| **06_functions.php**         | 🔧 Functions: declaration, parameters, return values, default params, anonymous & arrow functions       |
-| **07_array_functions.php**   | 📊 Array functions: `count`, `push`, `pop`, `merge`, `map`, `filter`, `reduce`                          |
-| **08_string_functions.php**  | ✍️ Strings: length, case, replace, substring, search, formatting                                        |
-| **09_superglobals.php**      | 🌐 Superglobals: `$_GET`, `$_POST`, `$_SERVER`, `$_SESSION`, `$_COOKIE`, `$_FILES`, `$_ENV`, `$GLOBALS` |
+| **1_output.php**            | 🖨️ Basic output: `echo`, `print`, `print_r`, `var_dump`                                                |
+| **2_variables.php**         | 🔢 Variables, data types, constants, type casting                                                       |
+| **3_arrays.php**            | 🗃️ Arrays: indexed, associative, multidimensional                                                      |
+| **4_conditionals.php**      | ⚡ Conditional logic: `if`, `else`, `elseif`, `switch`, ternary                                          |
+| **5_loops.php**             | 🔄 Loops: `for`, `while`, `do-while`, `foreach`, nested loops, `break` & `continue`                     |
+| **6_functions.php**         | 🔧 Functions: declaration, parameters, return values, default params, anonymous & arrow functions       |
+| **7_array_functions.php**   | 📊 Array functions: `count`, `push`, `pop`, `merge`, `map`, `filter`, `reduce`                          |
+| **8_string_functions.php**  | ✍️ Strings: length, case, replace, substring, search, formatting                                        |
+| **9_superglobals.php**      | 🌐 Superglobals: `$_GET`, `$_POST`, `$_SERVER`, `$_SESSION`, `$_COOKIE`, `$_FILES`, `$_ENV`, `$GLOBALS` |
 | **10_get_post.php**          | 📝 Handling form data via GET and POST, URL parameters                                                  |
 | **11_sanitizing_inputs.php** | 🛡️ Input validation & sanitization (`filter_var`, `htmlspecialchars`)                                  |
 | **12_cookies.php**           | 🍪 Working with cookies: set, read, delete                                                              |
@@ -61,7 +61,7 @@ Copy all PHP files into htdocs/php-crash-course/
 
 Start Apache in XAMPP Control Panel
 
-Open http://localhost/php-crash-course/01_output.php
+Open http://localhost/php-crash-course/1_output.php
 
 Work through files in order (01 → 17)
 
